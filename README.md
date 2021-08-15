@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/jackalkarlos/jackalkarlos/main/City%20Night%20Lights%20Tumblr%20Banner.png" width="1000" title="hover text">
-Hi, I'm jackalkarlos!<br>
+<img src="https://raw.githubusercontent.com/jackalkarlos/jackalkarlos/main/City%20Night%20Lights%20Tumblr%20Banner.png" width="1000" title="hover text"></img>
+<h1>Hi, I'm jackalkarlos!</h1><br>
 I love learning.<br>
-You can reach me on Instagram! @mdmrrr.34 <br>
+You can reach me on Instagram! @mdmrrr.34<br>
 
 # What I use
 
@@ -26,6 +26,7 @@ You can reach me on Instagram! @mdmrrr.34 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </pre>
+<img src="http://pngimg.com/uploads/jackal/jackal_PNG4.png" width="500"></img>
 
 <!---
 jackalkarlos/jackalkarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
