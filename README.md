@@ -1,6 +1,5 @@
 Hi, I'm jackalkarlos!<br>
-I'm still learning Ethical Hacker stuff and Python.<br>
-I know Windows Forensic techniques.<br>
+I love learning.<br>
 You can reach me on Instagram! @mdmrrr.34 <br>
 
 <pre>
