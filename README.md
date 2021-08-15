@@ -5,7 +5,7 @@ You can reach me on Instagram! @mdmrrr.34<br>
 
 # What I use
 
-<img src="https://img.shields.io/static/v1?label=OS&message=Kali%20Linux&color=brightgreen"> <img src="https://img.shields.io/badge/Forensic-Windows-blue"><img src="https://img.shields.io/badge/python-v3.7-red">
+<img src="https://img.shields.io/static/v1?label=OS&message=Kali%20Linux&color=brightgreen"> <img src="https://img.shields.io/badge/Forensic-Windows-blue"> <img src="https://img.shields.io/badge/python-v3.7-red">
 
 <pre>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
