@@ -1,9 +1,27 @@
-𝕛𝕒𝕔𝕜𝕒𝕝𝕜𝕒𝕣𝕝𝕠𝕤
+Hi, I'm jackalkarlos!<br>
+I'm still learning Ethical Hacker stuff and Python.<br>
+I know Windows Forensic techniques.<br>
+You can reach me on Instagram! @mdmrrr.34 <br>
 
-Hi, I'm jackalkarlos!
-I'm still learning Ethical Hacker stuff and Python.
-I know Windows Forensic techniques.
-You can reach me on Instagram! @mdmrrr.34 
+<pre>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;LOSKAR&nbsp;&nbsp;&nbsp;KAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOSKARLOSK&nbsp;&nbsp;&nbsp;&nbsp;SKARLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOSKAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOSK&nbsp;&nbsp;L&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;SKARL&nbsp;&nbsp;&nbsp;&nbsp;RLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKARL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKARLOSKARL&nbsp;&nbsp;&nbsp;ARLOSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OSKARLOS&nbsp;&nbsp;&nbsp;LOSKARLOSK&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;RLO&nbsp;&nbsp;&nbsp;&nbsp;LO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARLOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RLO&nbsp;&nbsp;&nbsp;&nbsp;LOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKAR&nbsp;&nbsp;SKAR&nbsp;OSKAR&nbsp;&nbsp;SKAR&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;OSK&nbsp;&nbsp;&nbsp;OS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RLOSKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OSKARLOSKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARL&nbsp;&nbsp;&nbsp;&nbsp;RLO&nbsp;KARLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;KARLOSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OSK&nbsp;RLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KARLOSKAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RLOS&nbsp;&nbsp;&nbsp;&nbsp;OSKA&nbsp;LOSKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;RLOSKAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKARLOSKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RLOSKARL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OSKA&nbsp;&nbsp;&nbsp;&nbsp;KARL&nbsp;&nbsp;&nbsp;&nbsp;RLOSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;OSKARLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARLOSKARL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OSKARLOSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ARL&nbsp;&nbsp;&nbsp;&nbsp;RLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;KAR&nbsp;&nbsp;SKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RLOS&nbsp;&nbsp;&nbsp;LOSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KAR&nbsp;&nbsp;&nbsp;KAR&nbsp;&nbsp;S&nbsp;&nbsp;RLOS&nbsp;&nbsp;&nbsp;&nbsp;OS&nbsp;&nbsp;&nbsp;LOS&nbsp;&nbsp;&nbsp;&nbsp;OSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RLOS&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;RLO&nbsp;&nbsp;ARL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OSK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KAR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RLO&nbsp;&nbsp;&nbsp;RLOSKA&nbsp;&nbsp;&nbsp;SKA&nbsp;&nbsp;&nbsp;&nbsp;KA&nbsp;&nbsp;&nbsp;SKAR&nbsp;&nbsp;SKAR&nbsp;OSKA&nbsp;&nbsp;OSKA&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;LOSKA&nbsp;LOSKARLOSKARL&nbsp;&nbsp;&nbsp;ARLOSK&nbsp;&nbsp;LOSKA&nbsp;&nbsp;OSKARL&nbsp;SKARLOSKARL&nbsp;&nbsp;&nbsp;&nbsp;RLOSKARL&nbsp;&nbsp;KARLOSKARL&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;OSKARL&nbsp;SKARLOSKARLOS&nbsp;&nbsp;&nbsp;LOSKAR&nbsp;&nbsp;SKARL&nbsp;&nbsp;&nbsp;ARLO&nbsp;&nbsp;ARLOSKARLOS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SKARLO&nbsp;&nbsp;&nbsp;RLOSKARLO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</pre>
 
 <!---
 jackalkarlos/jackalkarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
