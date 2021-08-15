@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jackalkarlos/jackalkarlos/main/KARLOS%20WAS%20HERE.png" width="600" title="hover text">
+<img src="https://raw.githubusercontent.com/jackalkarlos/jackalkarlos/main/KARLOS%20WAS%20HERE.png" width="1000" title="hover text">
 Hi, I'm jackalkarlos!<br>
 I love learning.<br>
 You can reach me on Instagram! @mdmrrr.34 <br>
