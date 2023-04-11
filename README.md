@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Karlos! (Mehmet Demir)</h1>
 <h3 align="center">A Cyber Security Student from Turkey</h3>
 
-- 🔭 I’m currently working on [Discord CTFTime Bot](https://github.com/jackalkarlos/Simple-Discord-CTFTime-Bot)
+- 🔭 CTFTime TR #1 [Ah Yalan Dünyac](https://ctftime.org/team/202267)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thatskarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatskarlos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karlos34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karlos34" height="30" width="40" /></a>
-<a href="https://instagram.com/thatskarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thatskarlos" height="30" width="40" /></a>
 <a href="https://discord.gg/karlos女#2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karlos女#2712" height="30" width="40" /></a>
 </p>
 
