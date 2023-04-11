@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karlos! (Mehmet Demir)</h1>
 <h3 align="center">A Cyber Security Student from Turkey</h3>
 
-- 🔭 CTFTime TR #1 [Ah Yalan Dünyac](https://ctftime.org/team/202267)
+- 🔭 CTFTime TR #1 [Ah Yalan Dünya](https://ctftime.org/team/202267)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
