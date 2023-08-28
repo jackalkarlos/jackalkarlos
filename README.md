@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karlos! (Mehmet Demir)</h1>
-<h3 align="center">A Cyber Security Student from Turkey</h3>
+<h3 align="center">Digital Forensics And Incident Response ☕</h3>
 
 - 🔭 CTFTime TR #1 [Ah Yalan Dünya](https://ctftime.org/team/202267)
 
