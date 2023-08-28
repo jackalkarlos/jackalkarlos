@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karlos! (Mehmet Demir)</h1>
+<h1 align="center">Hi 👋, I'm Karlos!</h1>
 <h3 align="center">Digital Forensics And Incident Response ☕</h3>
 
 - 🔭 CTFTime TR #1 [Ah Yalan Dünya](https://ctftime.org/team/202267)
