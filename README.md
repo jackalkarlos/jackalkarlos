@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karlos!</h1>
 <h3 align="center">Digital Forensics And Incident Response ☕</h3>
 
-- 🔭 CTFTime TR #1 [Ah Yalan Dünya](https://ctftime.org/team/202267)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thatskarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thatskarlos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karlos34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karlos34" height="30" width="40" /></a>
-<a href="https://discord.gg/karlos女#2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karlos女#2712" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +12,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackalkarlos&show_icons=true&locale=en&layout=compact" alt="jackalkarlos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackalkarlos&show_icons=true&locale=en" alt="jackalkarlos" /></p>
+
+<h4> cezalar yıldırmaz, azdırır </h4>
