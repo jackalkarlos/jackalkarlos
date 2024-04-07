@@ -12,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackalkarlos&show_icons=true&locale=en&layout=compact" alt="jackalkarlos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackalkarlos&show_icons=true&locale=en" alt="jackalkarlos" /></p>
-
-<h4> cezalar yıldırmaz, azdırır </h4>
